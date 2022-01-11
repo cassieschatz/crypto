@@ -49,14 +49,6 @@ public class cryptoWork{
 		}
 	}	
 
-	//Finds trigrams	
-
-	//Prints out the stats
-	static void printStats(){
-		
-
-	}
-
 	//This is my makeshift scanner function:
 	static String scanningTool(){
 		Scanner newSc = new Scanner(System.in);
